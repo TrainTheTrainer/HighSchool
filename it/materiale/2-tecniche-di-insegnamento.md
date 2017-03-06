@@ -110,25 +110,87 @@ La ricerca ha anche mostrato che la motivazione è fortemente influenzata dai se
 > - "Hai fatto un buon lavoro, devi aver lavorato duramente"
 >  ----
 
+
+Buona parte di tutto ciò si può riassumere nella seguente affermazione: **gli studenti apprendono meglio quando sono interessati all'argomento della lezione e pensano di essere in grado di padroneggiarlo.** 
+
+Tenete quindi a mente che qualsiasi cosa che si padroneggi rapidamente e sia immediatamente utile andrebbe insegnata per prima, mentre tutto ciò che è difficile da imparare e che non sia applicabile nel breve termine, può essere insegnato successivamente. 
+
 - **Atmosfera in cui si svolge l'apprendimento** <br>
 L'atmosfera di una classe è fondamentale per la motivazione degli studenti. Sentirsi isolati, "diversi", incapaci, in difficoltà, non compresi, marginalizzati da parte di insegnanti o compagni influsce moltissimo sulla motivazione di uno studente. 
 Sentire l'interesse e il supporto dell'istituzione, dei docenti, dei compagni invece è altamente motivante. 
 Sentire che il docente è lì per supportare, aiutare, facilitare l'apprendimento e non per "punire" o "cogliere in castagna" oppure perché "deve farlo" è invece altamente motivante.
 
-###Tecniche che stimolano l'interesse in classe
-
-- Mostrare entusiasmo per la materia. Se non avete entusiasmo voi stessi, non potete pensare che ne avranno i vostri studenti.
-- Trasmettere i motivi per cui pensiamo che quello che si sta studiando sia utile
-- Spiegare in che modo quello che si sta studiando possa essere utile nella vita futura (università, lavoro) degli studenti
-- Aprite ogni lezione sollecitando le emozioni degli studenti: date loro qualcosa di cui meravigliarsi, incuriositeli, raccontate loro una storia (anche personale), presentate loro un qualche avvenimento o statistica che li colpisca
- 
 
 >----
 > ###Challenge 3
 > Provate a pensare ad una volta - nella vostra vita di studenti - in cui un docente vi ha motivato.
 > Provate a pensare ad una volta - nella vostra vita di insegnanti - in cui avete fatto qualcosa che ha motivato molto uno o più studenti.
->  ----
+>  ---
+> 
 
+> ###Challenge 4
+> Che cosa avete visto funzionare in termini di coinvolgimento in classe?
+> Che cosa avete visto NON funzionare?
+> Che cosa non avete mai provato ma pensate possa funzionare?
+>  ---
+
+###Tecniche che stimolano l'interesse in classe
+
+- Mostrare entusiasmo per la materia. Se non avete entusiasmo voi stessi, non potete pensare che ne avranno i vostri studenti.
+- Trasmettere i motivi per cui pensiamo che quello che si sta studiando sia utile ed importante.
+- Spiegare in che modo quello che si sta studiando possa essere utile nella vita futura (università, lavoro) degli studenti
+- Aprite ogni lezione sollecitando le emozioni degli studenti: date loro qualcosa di cui meravigliarsi, incuriositeli, raccontate loro una storia (anche personale), presentate loro un qualche avvenimento o statistica che li colpisca.
+- Evitate lezioni monotone. Strutturate ogni ora di lezione in modo che sia articolata in più attività. Esempio: 
+   - 10 minuti di attività introduttive (riepilogo delle lezioni precedenti - facendo riferimento esattamente al punto del programma in cui ci si trova, domande agli studenti, presentazione dell'argomento da parte degli studenti, discussione, questionario)
+   - 20 minuti di spiegazione
+   - 15 minuti di esercizi oppure ripetizione dei concetti principali della lezione attraverso la costruzione di una mappa concettuale dell'argomento
+   - 10 minuti di attività di chiusura (far scrivere i punti chiave della lezione agli studenti, mostrare un piccolo video, far fare un "gioco", questionario, one-up-one-down, one-good-one=bad (minute cards)).
+- Siate vigili sul grado di interesse/attenzione della classe. Se doveste capire che due o più studenti sono distratti, dovete porre rimedio immediatamente, ad esempio introducendo un cambio di ritmo, cominciando a fare domande, restando in silenzio per qualche secondo, etc.
+ 
+ > ###Challenge 5 - Per quale ragione insegnate?
+> Ciascuno di noi ha una motivazione personale nell'insegnare. Scrivete una breve spiegazione su cosa vi motiva ad insegnare e tenetelo presente come parte della vostra filosofia di insegnamento come referenza futura.
+> 
 
 
 ### Demotivazione
+
+In molti casi, oltre a trovare dei sistemi per motivare in nostri studenti, è importante sapere quali sono le cose che possono demotivarli. Spesso, usare delle tecniche che evitano la demotivazione può essere sufficiente a coinvolgere gli studenti.
+
+E' noto che *indifferenza* e *iniquità/ingiustizia* (o qualsiasi comportamento venga recepito come tale) siano comuni fattori demotivanti. 
+
+Se gli studenti credono che il docente, la scuola o il sistema non siano interessati a loro o alla lezione, essi stessi neppure lo saranno. Inoltre, se gli studenti pensano che la classe sia ingiusta o scorretta, si sentiranno demotivati, *anche se lo dovesse essere in loro favore*. Infatti, consciamente o inconsciamente, saranno preoccupati di trovarsi un giorno a far parte di un gruppo "perdente". 
+
+Inoltre, un atteggiamento "sprezzante" o di superiorità da parte di un insegnante, è un modo rapidissimo di alienare una classe e provocare una de-sintonizzazione degli studenti.
+
+Piccole cose che non andrebbero mai fatte in classe:
+
+- Svalutare o umiliare uno studente
+- Deridere uno studente, anche con battute scherzose
+- Dire cose generali negative (ad esempio sulla società) che potrebbero toccare o addirittura ferire indirettamente qualcuno 
+- Sottolineare chi sono i "più bravi". Semmai riferirsi ai "più studiosi"
+- Cercare di non lasciarsi influenzare nelle valutazioni dai risultati delle valutazioni precedenti
+- Mostrare sorpresa di fronte a studenti che mostrano di non sapere qualcosa di "ovvio". "Ma come è possibile che tu non sappia questo?", "Davvero non hai mai sentito parlare di questo?"
+- Sminuire i problemi degli studenti.
+- "Abbandonare" uno studente in difficoltà. Cercare di coinvolgerlo il più possibile o di farlo affiancare da qualcuno con meno difficoltà.
+
+> ###Challenge 3
+> Provate a pensare ad una volta - nella vostra vita di studenti - in cui un docente vi ha demotivato.
+> Provate a pensare ad una volta - nella vostra vita di insegnanti - in cui avete fatto qualcosa che ha demotivato uno o più studenti.
+>  ---
+> 
+
+###Altre cose importanti che demotivano gli studenti
+
+ - La minaccia degli stereotipi
+Ricordare in qualche modo stereotipi negativi agli studenti, anche in modi sottili, li rende ansiosi riguardo al rischio di confermare questi stereotipi e questo è noto ridurre la loro performance. Un tipico esempio sono gli stereotipi di genere ("le femmine sono meno portate per le materie scientifiche") oppure  riguardanti il background socio-culturale ("gli studenti che si presentano con un voto basso dalla scuola media hanno più probabilità di fallire"). Un altro stereotipo è quello per cui "certe" persone non possano cambiare. 
+ - La sindrome dell'impostore
+E' il credo secondo il quale di pensa di non essere sufficientemente bravi per il luogo in cui ci si trova (o il lavoro che si fa o la posizione che si occupa), che i propri successi siano il frutto di colpi di fortuna, il tutto accompagnato dal timore di "essere scoperti".
+Ci sono due modi in cui un insegnante può aiutare chi dovesse avere la sindrome dell'impostore:
+	- Condividere storie di errori fatti o difficoltà vissute dall'insegnante stesso
+	- Parlare delle cose che si è fatto fatica ad imparare
+Questo rassicura la classe del fatto che e normale trovare alcuni argomenti difficili da imparare o studiare.
+    - E' anche utile enfatizzare che voi, in qualità di insegnanti, avete bisogno di domande da parte degli studenti: se non siete messi in grado di capire quali siano i problemi della classe, non potrete mai fare bene il vostro lavoro di insegnanti.	
+ - Atteggiamento mentale 
+ - Accessibilità al materiale didattico
+ - Inclusività
+Inclusivity is a policy of including people who might otherwise be excluded or marginalized.
