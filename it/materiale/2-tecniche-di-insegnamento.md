@@ -1,17 +1,5 @@
-##Tecniche di insegnamento che possono essere usate per stimolare l'interesse e la partecipazione degli studenti
+## Tecniche di insegnamento che possono essere usate per stimolare l'interesse e la partecipazione degli studenti
 
-
-> -----
-> ###Programma
-> 1. Le sfide da affrontare
-> 2. Eterogeneità della classe
-> 3. Motivazione e demotivazione
-> 4. Interattività 
-> 5. Andatura
-> 6. Empatia
-> 
-> 
-> ------
 
 ###1 Le sfide da affrontare
 
