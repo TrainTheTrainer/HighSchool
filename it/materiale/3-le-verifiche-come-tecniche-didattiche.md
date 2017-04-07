@@ -72,17 +72,15 @@ E può aiutare a comprendere:
 > * Scrivete almeno un esempio e discutetelo con gli altri.
 
 
-From the [GLOSSARY OF EDUCATION REFORM](edglossary.org/formative-assessment/) (also in [PDF](edglossary.org/formative-assessment/)):
+Dal [GLOSSARY OF EDUCATION REFORM](edglossary.org/formative-assessment/) (also in [PDF](edglossary.org/formative-assessment/)):
 
 > *La valutazione formativa * si riferisce a una vasta gamma di metodi che gli insegnanti utilizzano per condurre le valutazioni in corso della comprensione degli studenti, le esigenze di apprendimento e progressi accademici durante una lezione, unità, o corso.
 >
 > Le valutazioni formative aiutano gli insegnanti a identificare quei concetti che gli studenti non riescono a capire, le competenze che stanno avendo difficoltà ad acquisire, o gli standard di apprendimento non ancora raggiunti, al fine di poter apportare delle modifiche alle lezioni, tecniche di insegnamento.
 >
->The general goal of formative assessment is to collect detailed
-information that can be used to improve instruction and student
-learning while it’s happening. 
+>L'obiettivo generale di valutazione formativa è quello di raccogliere informazioni dettagliate che possono essere utilizzate per migliorare le tecniche di insegnamento e l'apprendimento dello studente mentre sta accadendo.
 >
->What makes an assessment “formative” is not the design of a test, technique, or self-evaluation, per se, but the way it is used — i.e., to inform in-process teaching and learning modifications.
+>Ciò che rende una valutazione “formativa” non è la progettazione di un test, una tecnica, o una auto-valutazione, di per sé, ma il modo in cui viene utilizzata.
 >
 
 Perché una verifica formativa sia utile durante l'insegnamento, deve essere veloce da eseguire e da valutare.
@@ -93,15 +91,24 @@ In particolare, essa può essere utilizzata per:
 #### 1) Attivare ed esplorare la conoscenza precedente
 "Student's prior knowledge can help or hinder learning" <br>(Ambrose et al. (2010) "How learning works", principle 1)
 
-- **strategies to activate prior knowledge**
-  - make examples taken from real life
-  - ask students questions designed to trigger recall; this can help them use prior knowledge to aid the integration and retention of new information.
-- **strategies to reveal accurate but insufficient prior knowledge**
-  - administer a diagnostic questionnaire. In preparing a diagnostic questionnaire, be aware of the difference between "declarative knwoledge" (knowing **what**) and " procedural knowledge (knowing **how** and **when** to apply various procedures, methods, theories, etc.). A questionnaire would be sufficient to assess "declarative knowledge". Solving a small exercise may help test "procedural knowledge".
-  - administer a self-assessment questionnaire. Self-assessment may be a problem because students may not be able to accurately assess their abilities. Generally, people tend to overestimate their knowledge and skills. Accuracy improves when the response options are clear and tied to speciic concepts or behaviours. Example in Amborse et al. (2010) Appendix A. 
-- **strategies to help learners recognise inappropriate prior knowledge.** If the students are explicitely taught the conditions and contexts in which knowledge is applicable (and inapplicable) it can help them avoid applying prior knowledge inappropriately (example: Python "methods").
-  - make a list of keywords essential to the topic you are teaching and ask learners to classify terms introduced in a session at the end of the session. Example: pin to the classoroom wall cards with Python categories (modules, built-in functions, methods, data types, etc), write Python terms to cards and ask learners to pin cards with Python terms under the correct category while telling aloud why they are putting that term in that category.
-- **strategies to highlight inaccurate prior knowledge.** Inaccurate prior knowledge can be corrected fairly easily if it consists of relatively isolated ideas or beliefs that are not embedded in larger conceptual models (for example, the belief that Pluto is a planet). Some kinds of inaccurate prior knowledge - called *misconceptions* - are remarkably resitant to correction. *Misconceptions* are models or theories that are deeply embedded in students' thinking (e.g. the notion that objects of different masses fall at different rates, "folk psychology" myths such as that blind people have more sensitive hearing than sighted people, or that seasons depend on the distance of the Earth from the Sun). Misconceptions are difficult to refute for a number of reasons: 1) many of them have been reinforced over time and across multiple contexts; 2) they often include accurate - as well as inaccurate - elements, thus students may not recognise their flaws; 3) in many cases, they may allow for successful explanation and prediction in a number of everyday circumstances.
+- **strategie per attivare la conoscenza preventiva**
+   - fare esempi tratti dalla vita reale
+   - porre domande agli studenti in modo tale da stimolare la memoria; questo può aiutarli a utilizzare le conoscenze precedenti al fine di aiutare l'integrazione e la ritenzione di nuove informazioni.
+   
+- ** strategie per rivelare una accurata ma insufficiente conoscenza preventiva**
+    - Fornire un questionario diagnostico. Nel preparare un questionario diagnostico, bisogna essere consapevoli della differenza tra "conoscenza dichiarativa" (sapendo ** cosa ** ) e "conoscenza procedurale (sapendo ** come ** e ** quando applicare procedure diverse, metodi, teorie, ecc.). Un questionario potrebbe essere sufficiente per la valutazione della "conoscenza dichiarativa". Un piccolo esercizio da risolvere può aiutare a valutare la "conoscenza procedurale".
+
+  - Fornire un questionario di autovalutazione. L'autovalutazione può essere un problema, perché gli studenti potrebbero non essere in grado di valutare con precisione le loro capacità. Generalmente, le persone tendono a sovrastimare le proprie conoscenze e competenze. La precisione migliora quando le opzioni di risposta sono chiare e legate a specifici concetti o comportamenti.
+   
+- **strategie per aiutare gli studenti a riconoscere una inappropriata conoscenza preventiva** 
+Se agli studenti viene esplicitamente insegnato quali sono le condizioni e i contesti in cui la conoscenza è applicabile (e inapplicabile), questo può essere di aiuto a evitare l'uso di conoscenze pregresse inappropriate.
+  - fare una lista di parole chiave essenziali per l'argomento che stai insegnando e chiedere agli studenti di classificare i termini introdotti in una sessione, al termine della sessione.
+  
+- **strategie per evidenziare conoscenze pregresse imprecise.** 
+Le conoscenze pregresse imprecise possono essere corrette abbastanza facilmente quando si tratta di idee relativamente isolate o di credenze che non sono ancora state incorporate in modelli concettuali più grandi (ad esempio, la convinzione che Plutone è un pianeta). Alcuni tipi di conoscenza preventiva imprecisa - chiamate * convinzioni errate * - sono notevolmente resistenti alla correzione. * Le convinzioni errate * sono modelli o teorie che sono profondamente radicate nel pensiero degli studenti (ad esempio, la nozione che gli oggetti di diverse masse cadono a velocità diverse, 'psicologia popolare' miti come ad esempio che le persone non vedenti hanno un udito più sensibile rispetto alle persone vedenti, o che le stagioni dipendono dalla distanza della Terra dal Sole). 
+Le convinzioni errate sono difficili da confutare per una serie di motivi: 1) molte di loro sono stati rafforzati nel corso del tempo e in più contesti; 2) spesso includono sia elementi esatti che inesatti, quindi per gli studenti non è facile riconoscere il loro punto debole; 
+
+
   - Administer MCQs with distractors (see below).
 
 ####2) to promote peer instruction and content delivery
