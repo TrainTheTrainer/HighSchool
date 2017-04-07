@@ -108,60 +108,53 @@ Se agli studenti viene esplicitamente insegnato quali sono le condizioni e i con
 Le conoscenze pregresse imprecise possono essere corrette abbastanza facilmente quando si tratta di idee relativamente isolate o di credenze che non sono ancora state incorporate in modelli concettuali più grandi (ad esempio, la convinzione che Plutone è un pianeta). Alcuni tipi di conoscenza preventiva imprecisa - chiamate * convinzioni errate * - sono notevolmente resistenti alla correzione. * Le convinzioni errate * sono modelli o teorie che sono profondamente radicate nel pensiero degli studenti (ad esempio, la nozione che gli oggetti di diverse masse cadono a velocità diverse, 'psicologia popolare' miti come ad esempio che le persone non vedenti hanno un udito più sensibile rispetto alle persone vedenti, o che le stagioni dipendono dalla distanza della Terra dal Sole). 
 Le convinzioni errate sono difficili da confutare per una serie di motivi: 1) molte di loro sono stati rafforzati nel corso del tempo e in più contesti; 2) spesso includono sia elementi esatti che inesatti, quindi per gli studenti non è facile riconoscere il loro punto debole; 
 
+#### 3) Esercitare la memoria (fare pratica di accesso alla memoria a lungo termine)
+..... (vedi Small Teaching)
 
-  - Administer MCQs with distractors (see below).
+#### 4) Stimolare la riflessione e preparare il cervello degli studenti all'apprendimento
 
-####2) to promote peer instruction and content delivery
-- You can use an anonymous diagnostic questionnaire as described [below](#diagnostic).
+#### 5) Evidenziare le debolezze e le difficoltà degli studenti e impostare di conseguenza il ritmo di insegnamento
 
-####3) to practice retrieval
-..... (see Small Teaching)
+#### 6) Aiutare gli studenti a capire su che cosa devono concentrarsi
 
-####4) to stimulate reflection and prepare learners' brain for learning
+La valutazione formativa può essere fatto in molti modi diversi:
 
-####5) to highlight learners' weaknesses and difficulties and therefore to set the pace of the following teaching
-
-####6) to help learners understand what they have to focus on 
-
-Formative assessment can be done in many different ways:
-
-- Asking questions to learners and get responses orally;
-- Asking them to describe the strategy they would adopt to solve a problem;
-- Asking them to solve a problem in groups, or individually but in front of the class;
-- Using brainstorming and discussions;
-- Providing diagnostic questionnaires;
-- Providing MCQs with distractors.
+- Fare domande agli studenti e ottenere risposte orali;
+- chiedere loro di descrivere la strategia che avrebbero adottato per risolvere un problema;
+- Chiedere loro di risolvere un problema in gruppi o singolarmente, ma di fronte alla classe;
+- Utilizzo di brainstorming e discussioni;
+- Fornire questionari diagnostici;
+- Fornire quesiti a scelta multipla (QSM) con "distrattori".
 
 
 <a name="diagnostic"></a>
-###Diagonstic questionnaires
+### Questionari diagnostici
 
-####Google forms
+#### Google forms
 
-This types of questionnaires can be anonymous or not. We suggest that you use them anonymously.
+Questi tipi di questionari possono essere anonimi o meno. Suggeriamo di usarli in forma anonima.
 
-[This](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/edit#) is an example of a diagnostic questionnaire for a session on PPI resources 
+[Questo (https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/edit#) è un esempio di questionario diagnostico preparato per una sessione di un corso sulle risorse di interazione proteica.
 
-[Here](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/viewanalytics) you can see how the responses look like.
+[Qui](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/viewanalytics) è possibile visualizzare le risposte.
 
-####Socrative
+#### Socrative
 
-> From the Socrative website:
+> Dal sito web Socrative:
 > 
->[Socrative](https://www.socrative.com/) is your classroom app for fun, effective classroom engagement. No matter where or how you teach, Socrative allows you to instantly connect with students as learning happens.
->
->(You can) quickly assess students with prepared activities or on-the-fly questions to get immediate insight into student understanding. Then use auto-populated results to determine the best instructional approach to most effectively drive learning.
-
+>[Socrative](https://www.socrative.com/) è una applicazione che permette di connettersi istantaneamente con gli studenti durante l'apprendimento.
+>(È possibile) valutare rapidamente gli studenti con attività o domande ed ottenere informazioni immediate sulla comprensione da parte degli studenti. 
 
 <a name="design"></a>
-### Design of MCQs with distractors
+###  Fornire quesiti a scelta multipla (QSM) con "distrattori" 
 
-> We quote from [Center for Teaching at the Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/).
+> Da [Center for Teaching at the Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/).
 >
->A multiple choice question consists of a problem, known as the stem, and a list of suggested solutions, known as alternatives. The alternatives consist of one correct or best alternative, which is the answer, and incorrect or inferior alternatives, known as distractors.
+> Un quesito a scelta multipla è costituito da due parti: la domanda  e un elenco e le opzioni di risposta, conosciute come alternative. Le alternative sono costituite da una risposta corretta o migliore alternativa, e da alternative non corrette noto come distrattori.
 >
-Multiple choice test questions, also known as items, can be an effective and efficient way to assess learning outcomes. Multiple choice test items have several potential advantages:
+Le domande a scelata multipla, possono essere un metodo efficace ed efficiente per valutare i risultati di apprendimento.I test a risposta multipla hanno diversi vantaggi potenziali:
 >
+
 ***Versatility***: Multiple choice test items can be written to assess various levels of learning outcomes, from basic recall to application, analysis, and evaluation. Because students are choosing from a set of potential answers, however, there are obvious limits on what can be tested with multiple choice items. **For example, they are not an effective way to test students’ ability to organize thoughts or articulate explanations or creative ideas.**
 >
 ***Reliability***: Reliability is defined as the degree to which a test consistently measures a learning outcome. Multiple choice test items are less susceptible to guessing than true/false questions, making them a more reliable means of assessment. The reliability is enhanced when the number of MC items focused on a single learning objective is increased. In addition, the objective scoring associated with multiple choice test items frees them from problems with scorer inconsistency that can plague scoring of essay questions.
