@@ -89,163 +89,35 @@ Le mappe concettuali sono strumenti grafici per organizzare e rappresentare la c
 Il wrap-uo può essere utilizzato per ripetere i concetti principali illustrati durante l'insegnamento. Questo dovrebbe essere preferibilmente fatto dagli studenti e può anche essere utilizzato per valutare i risultati dell'apprendimento (ad esempio utilizzando un questionario con domande simili alle domande del questionario di warm-up, o di qualsiasi altro test).
 Durante il wrap-up, si può anche valutare se le aspettative degli studenti sono state raggiunte e raccogliere il loro feedback.
 
+## Lezione su: "Introduzione alle proteine"
+
+### Obiettivo di apprendimento: Conoscenza e comprensione della relazione tra 
+
+- composizione chimica 
+- struttura primaria 
+- struttura secondaria
+- struttura terziaria
+- struttura quaternaria
+
+e la funzione molecolare e cellullare delle proteine.
+
+### Risultati di apprendimento:
+
+- L'alunno sarà capace di riconoscere sulla (pagina di wikipedia sulle proteine)[https://it.wikipedia.org/wiki/Proteine] ciò che l'insegnante non ha detto durante la lezione.
+-  Saprà inoltre riportare alla classe un concetto ed un esempio "extra" estratti da wikipedia.
+- 
+
+### Mappa concettuale 
+
+![Mappa concettuale_proteine](../../img/concept-map-2.jpg)
+
+
 Uno schema di una lezione da 1h15 potrebbe essere il seguente:
 
 |Time|Activity|Description|Goal/Outcome|
 |------|-------|-----------------------------|----------------|
-|15 mins|warm-up|Gli studenti riassumono i punti chiave della lezione precedente e rispondono alle domande dei compagni. L'insegnante descrive il piano della lezione nel dettaglio.|Recupero dalla memoria, ripetizione, preparazione al nuovo argomento, esposizione degli studenti|
-|10 mins|lecture|Le proteine|Imparare cosa sono le proteine e come funzionano|
-|20 mins|Attività pratica|Two exercises two be solved in pairs on a single computer. After solving the first exercise, the "driver" and the "navigator" will swap. Two learners (one per exercise) will display their solutions to the audience. Questions and discussion.|Learners will be able to write and call a function calculating the distance between two points in the 3D space and a function taking the base and height of a triangle as input and returning its area.|
-|10.00-10.15|wrap-up|Group test on functions (match input and output with specific functions; fill gaps in pieces of code). Game: repetition using ball throwing.|Assess learning. Do we need to work more on functions? Repeat meaning and usage of all Python objects introduced so far.|
-
-
-> ## Challenge
-
-> In your group…
-> 
-> - Take one session idea and expand to a “real” training session
-> - You will need to:
->   - Identify target audience
->   - Define session structure (include indicative content, length, breakdown and timings)
->   - Set learning objectives and outcomes
->   - Decide learning activities  
->   - Suggest how you will assess trainee progress
-> - Tell us anything else you think we need to know….
-
-
-
-<a name="design"></a>
-## From session to course design;
-
-<a name="preparatory"></a>
-### Preparatory steps for training delivery
-
-It may be useful to consider building your own (or adapting from Pedro's) checklists:
-
-####To prepare a new training course
-
-* Define the main idea (matching a perceived need)
-* Define the Ideal Target Audience
-* Define pre-requisites for the participants
-* Select potential instructors. One of them plays the leader role. Involve him/her in all discussions from this point on.
-* Breakdown into skills and concepts needed
-* for each skill {
-
-
-    state learning objective(s) and wite them down (use SMART learning objectives) 
-
-    consider exercise alternatives 
-
-    gauge duration, tech. requirements, testing  
-
-    pick the best suited exercise 
-
-    design a short lecture to precede it
-    
-    adjust timing for an ideal training slot duration 
-
-    prepare self-assessment questions
-
-    }
-* Compose a logical sequence of slots and distribute them in a course plan timetable
-* for each training day {
-    program a fist slot / 
-    On the fist day, use that slot to break the ice and establish team work discipline / 
-    On the other days, use it for the wrap-up of the content of the eve / 
-    }
-* Plan a final wrap-up discussion at the end of the course
-* Distribute the time slots through the days of training, using duration to balance the learning effort
-* Use breaks to induce periods of collective reflection
-* Foresee some physical activity, a couple of walks, a deep breathing exercise, for example
-
-
-####Course deployment (face-to-face)
-
-* Prepare the workstations so that they have a uniform setups/installations.
-* Ideally, prepare and test one machine and use disk cloning to ensure uniformity.
-* Clean-up shared directories: To_Participant, From_Participant, Data, Installers
-* Check projector, lamp, dust filter, focus and color mode.
-* Check documentation that may need to be distributed in paper form
-* Check name tags for the Participants
-* Prepare a list of Participants
-* Check training  room tidyness
-* Check air conditioned, lighting
-* Check for the availability of pens and paper pads for notes
-* Check Felt Tip Markers and whiteboard
-
-
-
-<a name="rooms"></a>
-#### Training rooms for Bioinformatics, Reproducibility of training environments;
-
-Bioinformatics training targets a wide range of subjects that have very different needs in terms of the machinery needed to run exercises. However, there are design constraints that every training room should respect. And these are important in the initial planning, and in improvements that one may consider in their lifetime.
-
-Room geometry
-
-The design of modern Bioinformatics training rooms should, primarily, be learner centered. Space to circulate, to allow for instructors to reach learners and interact with them is abolutely essential. Learner comfort comes next: the quality of the seats, the lighting, the room temperature control, the stability of power and network connections, these are all aspects that have serious impacts in learner satisfaction.
-
-Functionality
-
-Learners aceess to anything that is shared should be in the first line of priority. Access to shared storage space should be made easy. To communicate with the learners, video, audio, drawing surfaces (whiteboard, flipchart paper), a corkboard to pin materials, etc. should have premium access and ease of use.
-
-Hardware neeeds
-In some subjects, network connections providing simple browing (Port 80) or SSH acceess (Port 22) are more than sufficient. In that case, BYOD (bring your own device) can be adequate. The room must have easy power and network connections, including a good quality wifi access. 
-
-Presently, playing with relatively demanding software in local machines is still needed. You may need to play with assemblers and mappers for NGS data, for example. For that, well configured workstations (enhaced  PCs) are still the best choice. Foreseeably virtualised environments on performant hardware will end-up reducing  this need to the level of lightweight terminal equipment, but we are still on the way to get such facilities in place with adequate quality.
-
-The working environment for learners should be entirely reproducible. First, inside the training room, the environment must be the same for everybody. Secondly, the learners should feel that they can reproduce the same  environment when they go home after a training event. Again, virtualised environments can be a solution. However, the training room physical facilities will not travel, so one must think about what will and will not work in a home or a lab environment and at least explain what can be done.
-
-##Training material design and development
-
-Slides
-Notes
-Books/Papers
-Videos
-Exercises/Problems
-Tutorial/Hands on
-Live coding/Interactive exercises
-
-Once you have a plan for each session in your course, you may start thinking about what material is best suitable for each part of each session.
-The procedure is similar for each session.
-
-Also in this case, you should start with learning objectives and learning oucomes.
-
-.......
-
-<a name="mat1"></a>
-### Training materials: designing, producing, delivering
-
-You may find some inspiration in:
-ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf
-
-
-<a name="mat2"></a>
-### Training materials: Archival; Sharing; Making re-use possible
-
-Training materials developed ahead for a specific training event have a survival issue. If they reflect too much of a conne ction to other parts of the event they tend to loose autonomy. It also happens that true autonomy is not there if the materials are used out of the original environment, for example slides may not work without a narration (audio).
-
-Designing and producing quality training materials (presentations, exercises, support texts, instructions, worked results, etc.) involve a lot of work. It is a pity not to make specific efforts to create them with autonomy (self sufficiency) in mind. They should be properly stored  (and backed-up) and made available in referenceable public repositories. 
-
-<a name="mat3"></a>
-###  Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
-A general policy for re-use is not yet in place. However, with sharing principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a training Portal in 2014  http://mygoblet.org/training-portal where a significant amout of work has already been deposited.
-
-The need for referencing training materials in general, in the context of ELIXIR, has led to the development of TeSS, a training e-support system http://elixir-uk.org/elixir-uk-training-sectors/elixir-uk-training-platform. This is all about discovering, packaging and linking training materials, i.e. trying to deal with the excessive fragmentation of the materials, rather than providing a storage repository for them.
-
-Many people involved in the production of training materials are finding it useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is developed and served, is not a de facto standard, but presently it seems to be the smartest choice, especially because updating is left in the hands of the authors. The extended capabilties to produce websites, e-books, etc. are also seen as strenths. 
-
-Examples from GTPB:
-
-* http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY) 
-* http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages) 
-* https://github.com/sdwfrost/mevr        (repository) 
-* http://sdwfrost.github.io/mevr/         (gitbook) 
-
-Alternatively, the use of electronic notebooks, namely Jupyter ( http://jupyter.org ) and its satellite services are gaining popularity.
-
-"Notebook documents (or “notebooks”, all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc...). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis."
-
-Please have a look at this example:
-http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb
-
+|10 mins|warm-up|Gli studenti descrivono le caratteristiche fisico-chimiche degli amino acidi e elementi di base di biologia cellualere e rispondono alle domande dei compagni. L'insegnante descrive il piano della lezione nel dettaglio.|Recupero dalla memoria, ripetizione, preparazione al nuovo argomento, esposizione degli studenti|
+|20 mins|lecture|Le proteine (vedi mappa concettuale)|Imparare cosa sono le proteine e come funzionano.|
+|20 mins|Attività pratica|Lavoro in gruppi o in coppie. Ad ogni gruppo viene assegnata una sezione della pagina di wikipedia in cui gli studenti devono individuare concetti nuovi ed esempi che l'insegnante non ha detto durante la lezione e prepare domande sui punti non chiari|Riconoscimento sulla (pagina di wikipedia sulle proteine di ciò che l'insegnante non ha detto durante la lezione e formulazione di domande pertinenti|
+|10 mins|wrap-up|Ogni gruppo riporta velocemente il risultato del proprio lavoro. L'insegnante risponde alle domande.|Valutazione dell'apprendimento, chiarimento di concetti, ripetizione|
 
