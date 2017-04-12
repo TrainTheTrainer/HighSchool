@@ -3,7 +3,7 @@
 ## Feedback e verifiche come tecniche didattiche
 
 > -----
-> ###Programma
+> ### Programma
 > 1. Feedback agli studenti e da parte degli studenti
 > 2. Feedback agli studenti
 > 3. Valutazione sommativa e formativa
@@ -20,12 +20,12 @@
 > ------
 
 <a name="feedback"></a>
-##Feedback agli studenti e da parte degli studenti
+## Feedback agli studenti e da parte degli studenti
 
 Bisogna essere consapevoli della differenza tra il feedback ricevuto dagli studenti e quello dato agli studenti. Entrambi i tipi di feedback sono utili ma hanno finalità diverese.
 
 
->###Challenge 1: Che tipo di verifiche conoscete in qualità di studenti?
+>### Challenge 1: Che tipo di verifiche conoscete in qualità di studenti?
 > 
 > * Che tipo di verifiche vi è capitato di fare nella vostra vita di studenti?
 > * Qual era la loro finalità? 
@@ -33,21 +33,20 @@ Bisogna essere consapevoli della differenza tra il feedback ricevuto dagli stude
 > 
 > Scrivete almeno un esempio per gruppo e discutetelo con noi
 
-##Feedback agli studenti
+## Feedback agli studenti
 Il feedback che viene dato agli studenti è ciò che si fa per aiutare noi stessi - gli insegnanti - e gli studenti per capire se essi hanno effettivamente imparato ciò che abbiamo insegnato loro.
 
 I voti sono un esempio di un tipo di feedback che si usa per informare gli studenti su quale sia stata la loro performance in una verifica o un esame. I voti, da un lato informano i docenti sul processo di apprendimento degli studenti e - dall'altro -  dovrebbero rendere gli studenti consapevoli del loro grado di conoscenza e padronanza di un argomento al momento della verifica o dell'esame.
 
 
-####Valutazione sommativa e formativa
+#### Valutazione sommativa e formativa
 Il feedback dato agli studenti può essere di tipo **formativo** or **sommativo** <br>
 *Valutazione sommativa*. Un esame o un test alla fine di un corso è un esempio di verifica **sommativa**. Una verifica sommativa ha lo scopo di valutare la performance degli studenti alla fine di una sessione, dello studio di un argomento, di un ciclo di lezioni, di un corso di studi, etc. Si tratta del tipo più frequente di verifica nelle scuole e nelle università e generalmente prevede l'assegnazione di voti. E' il tipo di verifica meno frequente nei corsi di training.
 
 *Valutazione formativa*. Le verifiche formative hanno luogo **durante** l'insegnamento e l'apprendimento. Il loro fine è quello di aiutare sia gli insegnanti che gli studenti a diventare consapevoli di quale debba essere il focus successivo alla verifica.
 
-"Classroom assessment's purpose is to improve the quality of student learning, not to provide evidence for evaluating or grading students. The assessment is almost never graded andalmost always anonymous." (from [From Angelo & Cross, Classroom Assessment techniques, a Handbook for College Teachers](./docs/angelo_and_cross_assessment_techniques.pdf))
+"Lo scopo della valutazione in aula è quello di migliorare la qualità di apprendimento degli studenti e non di valutare o classificare gli studenti. La valutazione generalmente non è quasi mai valutata ed è quasi sempre anonima (from [From Angelo & Cross, Classroom Assessment techniques, a Handbook for College Teachers](./docs/angelo_and_cross_assessment_techniques.pdf))
 
-Formative assessment can be used to collect information about learners'
 
 La valutazione formativa può essere utilizzata per raccogliere informazioni sugli studenti riguardo alla loro:
 
@@ -65,7 +64,7 @@ E può aiutare a comprendere:
 - se gli obiettivi degli studenti sono allineati a quelli del corso
 - Che tipo di errori necessitano un'attenzione speciale.
 
->###Challenge 2: che tipo di verifiche/feedback utilizzate in qualità di insegnanti?
+>### Challenge 2: che tipo di verifiche/feedback utilizzate in qualità di insegnanti?
 > * Qual è il loro scopo?
 > * In che modo fornite feedback agli studenti?
 > * In che modo raccogliete il feedback degli studenti?
@@ -73,12 +72,15 @@ E può aiutare a comprendere:
 > * Scrivete almeno un esempio e discutetelo con gli altri.
 
 
-From the [GLOSSARY OF EDUCATION REFORM](edglossary.org/formative-assessment/) (also in [PDF](edglossary.org/formative-assessment/)):
-> *Formative assessment* refers to a wide variety of methods that teachers use to conduct in-process evaluations of studentcomprehension, learning needs, and academic progress during alesson, unit, or course. 
+Dal [GLOSSARY OF EDUCATION REFORM](edglossary.org/formative-assessment/) (also in [PDF](edglossary.org/formative-assessment/)):
+
+> *La valutazione formativa * si riferisce a una vasta gamma di metodi che gli insegnanti utilizzano per condurre le valutazioni in corso della comprensione degli studenti, le esigenze di apprendimento e progressi accademici durante una lezione, unità, o corso.
 >
-> Formative assessments help teachers identify concepts that students are struggling to understand, skills they are having difficulty acquiring, or learning standards they have not yet achieved so that adjustments can be made to lessons, instructional techniques, and academic support.>>The general goal of formative assessment is to collect detailedinformation that can be used to improve instruction and studentlearning while it’s happening. 
+> Le valutazioni formative aiutano gli insegnanti a identificare quei concetti che gli studenti non riescono a capire, le competenze che stanno avendo difficoltà ad acquisire, o gli standard di apprendimento non ancora raggiunti, al fine di poter apportare delle modifiche alle lezioni, tecniche di insegnamento.
 >
->What makes an assessment “formative” is not the design of a test, technique, or self-evaluation, per se, but the way it is used — i.e., to inform in-process teaching and learning modifications.
+>L'obiettivo generale di valutazione formativa è quello di raccogliere informazioni dettagliate che possono essere utilizzate per migliorare le tecniche di insegnamento e l'apprendimento dello studente mentre sta accadendo.
+>
+>Ciò che rende una valutazione “formativa” non è la progettazione di un test, una tecnica, o una auto-valutazione, di per sé, ma il modo in cui viene utilizzata.
 >
 
 Perché una verifica formativa sia utile durante l'insegnamento, deve essere veloce da eseguire e da valutare.
@@ -86,71 +88,73 @@ La valutazione formativa può essere utilizzata come una vera e propria strategi
 
 In particolare, essa può essere utilizzata per:
 
-####1) Attivare ed esplorare la conoscenza precedente
+#### 1) Attivare ed esplorare la conoscenza precedente
 "Student's prior knowledge can help or hinder learning" <br>(Ambrose et al. (2010) "How learning works", principle 1)
 
-- **strategies to activate prior knowledge**
-  - make examples taken from real life
-  - ask students questions designed to trigger recall; this can help them use prior knowledge to aid the integration and retention of new information.
-- **strategies to reveal accurate but insufficient prior knowledge**
-  - administer a diagnostic questionnaire. In preparing a diagnostic questionnaire, be aware of the difference between "declarative knwoledge" (knowing **what**) and " procedural knowledge (knowing **how** and **when** to apply various procedures, methods, theories, etc.). A questionnaire would be sufficient to assess "declarative knowledge". Solving a small exercise may help test "procedural knowledge".
-  - administer a self-assessment questionnaire. Self-assessment may be a problem because students may not be able to accurately assess their abilities. Generally, people tend to overestimate their knowledge and skills. Accuracy improves when the response options are clear and tied to speciic concepts or behaviours. Example in Amborse et al. (2010) Appendix A. 
-- **strategies to help learners recognise inappropriate prior knowledge.** If the students are explicitely taught the conditions and contexts in which knowledge is applicable (and inapplicable) it can help them avoid applying prior knowledge inappropriately (example: Python "methods").
-  - make a list of keywords essential to the topic you are teaching and ask learners to classify terms introduced in a session at the end of the session. Example: pin to the classoroom wall cards with Python categories (modules, built-in functions, methods, data types, etc), write Python terms to cards and ask learners to pin cards with Python terms under the correct category while telling aloud why they are putting that term in that category.
-- **strategies to highlight inaccurate prior knowledge.** Inaccurate prior knowledge can be corrected fairly easily if it consists of relatively isolated ideas or beliefs that are not embedded in larger conceptual models (for example, the belief that Pluto is a planet). Some kinds of inaccurate prior knowledge - called *misconceptions* - are remarkably resitant to correction. *Misconceptions* are models or theories that are deeply embedded in students' thinking (e.g. the notion that objects of different masses fall at different rates, "folk psychology" myths such as that blind people have more sensitive hearing than sighted people, or that seasons depend on the distance of the Earth from the Sun). Misconceptions are difficult to refute for a number of reasons: 1) many of them have been reinforced over time and across multiple contexts; 2) they often include accurate - as well as inaccurate - elements, thus students may not recognise their flaws; 3) in many cases, they may allow for successful explanation and prediction in a number of everyday circumstances.
-  - Administer MCQs with distractors (see below).
+- **strategie per attivare la conoscenza preventiva**
+   - fare esempi tratti dalla vita reale
+   - porre domande agli studenti in modo tale da stimolare la memoria; questo può aiutarli a utilizzare le conoscenze precedenti al fine di aiutare l'integrazione e la ritenzione di nuove informazioni.
+   
+- ** strategie per rivelare una accurata ma insufficiente conoscenza preventiva**
+    - Fornire un questionario diagnostico. Nel preparare un questionario diagnostico, bisogna essere consapevoli della differenza tra "conoscenza dichiarativa" (sapendo ** cosa ** ) e "conoscenza procedurale (sapendo ** come ** e ** quando applicare procedure diverse, metodi, teorie, ecc.). Un questionario potrebbe essere sufficiente per la valutazione della "conoscenza dichiarativa". Un piccolo esercizio da risolvere può aiutare a valutare la "conoscenza procedurale".
 
-####2) to promote peer instruction and content delivery
-- You can use an anonymous diagnostic questionnaire as described [below](#diagnostic).
+  - Fornire un questionario di autovalutazione. L'autovalutazione può essere un problema, perché gli studenti potrebbero non essere in grado di valutare con precisione le loro capacità. Generalmente, le persone tendono a sovrastimare le proprie conoscenze e competenze. La precisione migliora quando le opzioni di risposta sono chiare e legate a specifici concetti o comportamenti.
+   
+- **strategie per aiutare gli studenti a riconoscere una inappropriata conoscenza preventiva** 
+Se agli studenti viene esplicitamente insegnato quali sono le condizioni e i contesti in cui la conoscenza è applicabile (e inapplicabile), questo può essere di aiuto a evitare l'uso di conoscenze pregresse inappropriate.
+  - fare una lista di parole chiave essenziali per l'argomento che stai insegnando e chiedere agli studenti di classificare i termini introdotti in una sessione, al termine della sessione.
+  
+- **strategie per evidenziare conoscenze pregresse imprecise.** 
+Le conoscenze pregresse imprecise possono essere corrette abbastanza facilmente quando si tratta di idee relativamente isolate o di credenze che non sono ancora state incorporate in modelli concettuali più grandi (ad esempio, la convinzione che Plutone è un pianeta). Alcuni tipi di conoscenza preventiva imprecisa - chiamate * convinzioni errate * - sono notevolmente resistenti alla correzione. * Le convinzioni errate * sono modelli o teorie che sono profondamente radicate nel pensiero degli studenti (ad esempio, la nozione che gli oggetti di diverse masse cadono a velocità diverse, 'psicologia popolare' miti come ad esempio che le persone non vedenti hanno un udito più sensibile rispetto alle persone vedenti, o che le stagioni dipendono dalla distanza della Terra dal Sole). 
+Le convinzioni errate sono difficili da confutare per una serie di motivi: 1) molte di loro sono stati rafforzati nel corso del tempo e in più contesti; 2) spesso includono sia elementi esatti che inesatti, quindi per gli studenti non è facile riconoscere il loro punto debole; 
 
-####3) to practice retrieval
-..... (see Small Teaching)
+#### 3) Esercitare la memoria (fare pratica di accesso alla memoria a lungo termine)
+..... (vedi Small Teaching)
 
-####4) to stimulate reflection and prepare learners' brain for learning
+#### 4) Stimolare la riflessione e preparare il cervello degli studenti all'apprendimento
 
-####5) to highlight learners' weaknesses and difficulties and therefore to set the pace of the following teaching
+#### 5) Evidenziare le debolezze e le difficoltà degli studenti e impostare di conseguenza il ritmo di insegnamento
 
-####6) to help learners understand what they have to focus on 
+#### 6) Aiutare gli studenti a capire su che cosa devono concentrarsi
 
-Formative assessment can be done in many different ways:
+La valutazione formativa può essere fatto in molti modi diversi:
 
-- Asking questions to learners and get responses orally;
-- Asking them to describe the strategy they would adopt to solve a problem;
-- Asking them to solve a problem in groups, or individually but in front of the class;
-- Using brainstorming and discussions;
-- Providing diagnostic questionnaires;
-- Providing MCQs with distractors.
+- Fare domande agli studenti e ottenere risposte orali;
+- chiedere loro di descrivere la strategia che avrebbero adottato per risolvere un problema;
+- Chiedere loro di risolvere un problema in gruppi o singolarmente, ma di fronte alla classe;
+- Utilizzo di brainstorming e discussioni;
+- Fornire questionari diagnostici;
+- Fornire quesiti a scelta multipla (QSM) con "distrattori".
 
 
 <a name="diagnostic"></a>
-###Diagonstic questionnaires
+### Questionari diagnostici
 
-####Google forms
+#### Google forms
 
-This types of questionnaires can be anonymous or not. We suggest that you use them anonymously.
+Questi tipi di questionari possono essere anonimi o meno. Suggeriamo di usarli in forma anonima.
 
-[This](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/edit#) is an example of a diagnostic questionnaire for a session on PPI resources 
+[Questo (https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/edit#) è un esempio di questionario diagnostico preparato per una sessione di un corso sulle risorse di interazione proteica.
 
-[Here](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/viewanalytics) you can see how the responses look like.
+[Qui](https://docs.google.com/forms/d/1d1yOiNaBdcyGgxaaRqP47b3K06zvYQS0CT8eu0I0d1E/viewanalytics) è possibile visualizzare le risposte.
 
-####Socrative
+#### Socrative
 
-> From the Socrative website:
+> Dal sito web Socrative:
 > 
->[Socrative](https://www.socrative.com/) is your classroom app for fun, effective classroom engagement. No matter where or how you teach, Socrative allows you to instantly connect with students as learning happens.
->
->(You can) quickly assess students with prepared activities or on-the-fly questions to get immediate insight into student understanding. Then use auto-populated results to determine the best instructional approach to most effectively drive learning.
-
+>[Socrative](https://www.socrative.com/) è una applicazione che permette di connettersi istantaneamente con gli studenti durante l'apprendimento.
+>(È possibile) valutare rapidamente gli studenti con attività o domande ed ottenere informazioni immediate sulla comprensione da parte degli studenti. 
 
 <a name="design"></a>
-### Design of MCQs with distractors
+###  Fornire quesiti a scelta multipla (QSM) con "distrattori" 
 
-> We quote from [Center for Teaching at the Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/).
+> Da [Center for Teaching at the Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/).
 >
->A multiple choice question consists of a problem, known as the stem, and a list of suggested solutions, known as alternatives. The alternatives consist of one correct or best alternative, which is the answer, and incorrect or inferior alternatives, known as distractors.
+> Un quesito a scelta multipla è costituito da due parti: la domanda  e un elenco e le opzioni di risposta, conosciute come alternative. Le alternative sono costituite da una risposta corretta o migliore alternativa, e da alternative non corrette noto come distrattori.
 >
-Multiple choice test questions, also known as items, can be an effective and efficient way to assess learning outcomes. Multiple choice test items have several potential advantages:
+Le domande a scelata multipla, possono essere un metodo efficace ed efficiente per valutare i risultati di apprendimento.I test a risposta multipla hanno diversi vantaggi potenziali:
 >
+
 ***Versatility***: Multiple choice test items can be written to assess various levels of learning outcomes, from basic recall to application, analysis, and evaluation. Because students are choosing from a set of potential answers, however, there are obvious limits on what can be tested with multiple choice items. **For example, they are not an effective way to test students’ ability to organize thoughts or articulate explanations or creative ideas.**
 >
 ***Reliability***: Reliability is defined as the degree to which a test consistently measures a learning outcome. Multiple choice test items are less susceptible to guessing than true/false questions, making them a more reliable means of assessment. The reliability is enhanced when the number of MC items focused on a single learning objective is increased. In addition, the objective scoring associated with multiple choice test items frees them from problems with scorer inconsistency that can plague scoring of essay questions.
@@ -199,9 +203,21 @@ In the following we report the seven assumptions on which the CATs are based and
 >From [Angelo and Cross](angelo_and_cross_assessment_techniques.pdf):
 >
 > Classroom Assessment is based on seven assumptions:
-> 1. **The quality of student learning is directly, although not exclusively, related to the quality of teaching**. Therefore, one of the most promising ways to improve learning is to improve teaching.2. **To improve their effectiveness teachers need first to make their goals and objectives explicit** and then to get specific, comprehensible feedback on the extent to which they are achieving those goals and objectives.3. To improve their learning, **students need to receive approprate and focused feedback early and often**; they also need to learn how to assess their own learning.4. The type of assessment most likely to improve teaching and learning is that conducted by faculty to answer questions they themselves have formulated in response to issues or problems in their own teaching.5. **Systematic inquiry and intellectual challenge** are powerful sources of motivation, growth, and renewal for college teachers, and Classroom Assessment can provide such challenge.6. Classroom Assessment does not require specialized training; it can be carried out by dedicated teachers from all disciplines.7. By collaborating with colleagues and actively involving students in Classroom Assessment efforts, faculty (and students) enhance learning and personal satisfaction.
+> 
+1. **The quality of student learning is directly, although not exclusively, related to the quality of teaching**. Therefore, one of the most promising ways to improve learning is to improve teaching.
+2. **To improve their effectiveness teachers need first to make their goals and objectives explicit** and then to get specific, comprehensible feedback on the extent to which they are achieving those goals and objectives.
+3. To improve their learning, **students need to receive approprate and focused feedback early and often**; they also need to learn how to assess their own learning.
+4. The type of assessment most likely to improve teaching and learning is that conducted by faculty to answer questions they themselves have formulated in response to issues or problems in their own teaching.
+5. **Systematic inquiry and intellectual challenge** are powerful sources of motivation, growth, and renewal for college teachers, and Classroom Assessment can provide such challenge.
+6. Classroom Assessment does not require specialized training; it can be carried out by dedicated teachers from all disciplines.
+7. By collaborating with colleagues and actively involving students in Classroom Assessment efforts, faculty (and students) enhance learning and personal satisfaction.
 >
-> Five suggestions for a successful start:1. If a Classroom Assessment Techniques does not appeal to your intuition and professional judgement as a teacher, don't use it.2. Don't make Classroom Assessment into a self-inflicted chore or burden.3. Don't ask your students to use any Classroom Assessment Technique you haven't previously tried on yourself.4. Allow for more time than you think you will need to carry out and respond to the assessment.5. Make sure to "close the loop." Let students know what you learn from their feedback and how you and they can use that information to improve learning.
+> Five suggestions for a successful start:
+1. If a Classroom Assessment Techniques does not appeal to your intuition and professional judgement as a teacher, don't use it.
+2. Don't make Classroom Assessment into a self-inflicted chore or burden.
+3. Don't ask your students to use any Classroom Assessment Technique you haven't previously tried on yourself.
+4. Allow for more time than you think you will need to carry out and respond to the assessment.
+5. Make sure to "close the loop." Let students know what you learn from their feedback and how you and they can use that information to improve learning.
 
 
 <a name="self"></a>
