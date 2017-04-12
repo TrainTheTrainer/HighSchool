@@ -1,7 +1,7 @@
 #Preparazione di lezioni e materiali didattici
 
 > -----
-> ###Programma
+> ### Programma
 > 
 > 1. Mappe concettuali
 > 2. Obiettivi di apprendimento e risultati di apprendimento
@@ -13,7 +13,7 @@
 
 
 
-## Concept maps
+## Mappe concettuali
 
 > From Ambrose et al (2010) "How learning works" - Appendix B
 > 
@@ -26,10 +26,6 @@ Le mappe concettuali sono strumenti grafici per organizzare e rappresentare la c
 > 
 > Da Novak e Cañas:
 > 
-> The  starting  point   for  constructing  a  concept   map   can  consist  of  only  the   *focus  question*. It is important that a question be given (e.g. "What is the structure of the Universe?" and not just a topic (e.g. “make a concept map about the Universe”) since  answering  the  question  helps focus on your map. 
-> 
->  A second step for the  construction of the concept map can be a  list of concepts  that  you want to  definitely include  in  your  map.  We  refer  to  a  list  of  concepts  waiting  to  be  added  to  a  concept   map  as  the  parking  lot of concepts. 
-> 
 > **The beginning of a concept map with a focus question and a parking lot with concepts to be included in the map:**
 > 
 > Il punto di partenza per la costruzione di una mappa concettuale può essere costituito da una "domanda chiave". E 'importante che vi sia una domanda alla base della costruzione di una mappa concettuale (ad esempio "Qual è la struttura dell'Universo?") e non un argomento (ad esempio “fare una mappa concettuale dell'Universo”), in quanto rispondere alla domanda aiuta a focalizzarsi sulla mappa.
@@ -41,9 +37,6 @@ Le mappe concettuali sono strumenti grafici per organizzare e rappresentare la c
 > 
 > 
 > ![focus session and parking lot](../../img/concept-map-parking-lot.jpg)
-> 
-> **An expert skeleton concept map**<br>
-> The concept map deals with a key concept that needs to be understood as a foundation for learning science. It is based on the parking lot from the previous figure. Some comcepts were left in the parking lot for subsequent addition.
 > 
 > **Uno scheletro di una mappa concettuale prodotto da un esperto** <br>
 > La mappa concettuale qui sotto si basa sulla precedente lista di concetti del "parcheggio". Alcuni concetti sono rimasti nel parcheggio per essere aggiunti successivamente.
@@ -63,14 +56,13 @@ Le mappe concettuali sono strumenti grafici per organizzare e rappresentare la c
 * Decidere l'ordine delle attività;
 * Cercare di includere almeno una sessione di "riscaldamento", una breve "lecture", un'attività pratica o di gruppo e un sessione di chiusura.
 
-**Riscaldamento** <br>
+**Riscaldamento (warm-up)** <br>
 
 * Descrivere chiaramente gli obiettivi di apprendimento e i risultati attesi. 
 * Descrivere cosà verrà spiegato e come questo sia in relazione con gli argomenti precedenti.
 * Il "riscaldamento" può includere un'attività fatta dagli studenti, come risolvere un esercizio, rispondere ad un breve questionare, o fare un gioco di predizione.
 
 **Scopo**: Attivare la conoscenza precedente, preparare la mente ad apprendere, introdurre l'argomento 
-
 
 **Lecture** 
 
