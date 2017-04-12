@@ -116,8 +116,8 @@ Uno schema di una lezione da 1h15 potrebbe essere il seguente:
 
 |Time|Activity|Description|Goal/Outcome|
 |------|-------|-----------------------------|----------------|
-|10 mins|warm-up|Gli studenti descrivono le caratteristiche fisico-chimiche degli amino acidi e elementi di base di biologia cellualere e rispondono alle domande dei compagni. L'insegnante descrive il piano della lezione nel dettaglio.|Recupero dalla memoria, ripetizione, preparazione al nuovo argomento, esposizione degli studenti|
-|20 mins|lecture|Le proteine (vedi mappa concettuale)|Imparare cosa sono le proteine e come funzionano.|
-|20 mins|Attività pratica|Lavoro in gruppi o in coppie. Ad ogni gruppo viene assegnata una sezione della pagina di wikipedia in cui gli studenti devono individuare concetti nuovi ed esempi che l'insegnante non ha detto durante la lezione e prepare domande sui punti non chiari|Riconoscimento sulla (pagina di wikipedia sulle proteine di ciò che l'insegnante non ha detto durante la lezione e formulazione di domande pertinenti|
+|10 mins|warm-up|Gli studenti descrivono le caratteristiche fisico-chimiche degli amino acidi e gli elementi di base di biologia cellulare e rispondono alle domande dei compagni. L'insegnante descrive il piano della lezione nel dettaglio.|Recupero dalla memoria, ripetizione, preparazione al nuovo argomento, esposizione degli studenti|
+|20 mins|Lezione|Le proteine (vedi mappa concettuale)|Imparare cosa sono le proteine e come funzionano.|
+|20 mins|Attività pratica|Lavoro in gruppi o in coppie. Ad ogni gruppo viene assegnata una sezione della pagina di wikipedia in cui gli studenti devono individuare concetti nuovi ed esempi che l'insegnante non ha detto durante la lezione e prepare domande sui punti non chiari|Riconoscimento sulla pagina di wikipedia sulle proteine di ciò che l'insegnante non ha detto durante la lezione e formulazione di domande pertinenti|
 |10 mins|wrap-up|Ogni gruppo riporta velocemente il risultato del proprio lavoro. L'insegnante risponde alle domande.|Valutazione dell'apprendimento, chiarimento di concetti, ripetizione|
 
